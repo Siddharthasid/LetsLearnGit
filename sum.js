@@ -6,3 +6,4 @@ var c = a+b;
 
 console.log(c);
 console.log("My name is Siddhartha Sarkar");
+console.log("I am a student");
